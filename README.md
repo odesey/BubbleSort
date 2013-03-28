@@ -19,7 +19,7 @@ to_sort = [5, 1, 4, 5, 8]
 
 You need to replace all occurences of to_sort with self, if you are going to package your code inside of a custom Array article.
 
-Secondly, you need to finish your implementation so that the test passes!
+Secondly, as of now the test will fail. This is good, as in TDD we like to specify how the program works first, see the test fail, then add the implementation. So you need to finish your implementation so that the test passes!
 
 # To run
 
