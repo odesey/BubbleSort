@@ -23,7 +23,7 @@ Secondly, you need to finish your implementation so that the test passes!
 
 # To run
 
-ruby my_amazing_test.rb
+```ruby my_amazing_test.rb```
 
 # Submission
 
