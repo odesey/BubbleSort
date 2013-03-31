@@ -9,7 +9,7 @@ cycle = 3 #variable countergit for the outer loop
            if to_sort[x] > to_sort[x+1] #compare if the 2 selected values are in order
               to_sort[x], to_sort[x+1] = to_sort[x+1], to_sort[x] #if the 1st value is greater than the 2nd value then swap values
               sleep 2
-              puts "*" * 20 + "RESORTING" + "*" * 20 #puts some feedback on the screen
+              puts "*" * 20 + "RESORTING" + "*" * 20 #put some feedback on the screen
               puts to_sort.join ',' #puts all the values of the array on one line instead of 1 per line 
              else 
         end 
